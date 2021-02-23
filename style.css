@@ -1,6 +1,6 @@
 body {
   text-align: right;
-  background: black;
+  background: rgb(28, 14, 90);
   background-size: cover;
   background-position: center;
   color: white;
@@ -14,7 +14,10 @@ input {
   padding: 10px;
   font-size: 18px;
 }
-input[type="submit"] {
+input[type="button"] {
   color: white;
   background: red;
+}
+h1 {
+  background: orange;
 }
